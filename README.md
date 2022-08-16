@@ -2,7 +2,7 @@
 
 A basic xylophone app in flutter.
 
-Explanation Video on Youtube: https://youtu.be/s71A8XIMI6s
+Explanation Video on Youtube: https://youtu.be/s71A8XIMI6s          
 Linkedin Profile Link: https://www.linkedin.com/in/mohammad-bilal-akbar-981649189/          
 Github Profile Link: https://github.com/MuhammadBilalAkbar                                         
 Youtube Channel Link: https://www.youtube.com/channel/UCu2Hy8Wzb14T37e5Adsfc8w                      
